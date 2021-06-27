@@ -6,3 +6,16 @@ div {
     color: #b0c5a4;
     margin-bottom: 2rem;
   }
+  .results {
+    margin-top: 4rem;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #549c6c;
+  }
+  
+  .score {
+    margin: 2rem 0;
+    font-size: 3rem;
+    font-weight: 600;
+    color: #229e2d;
+  }
